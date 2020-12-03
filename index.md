@@ -4,7 +4,7 @@
 
 layout: page
 title: Kawa's Test Page
-permalink: /about
+permalink: /index.html
 ---
 
 Hello Internet, this is Kawa!
